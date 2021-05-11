@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="685dc172-a912-4647-9fcc-69e6ccfb822c" name="Default Changelist" comment="First commit FrontEnd" />
+    <list default="true" id="685dc172-a912-4647-9fcc-69e6ccfb822c" name="Default Changelist" comment="First commit FrontEnd">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-project/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontend/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontend/frontendTS/hello-world.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontend/frontendTS/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontend/frontendTS/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontend/frontendTS/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontend/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontend/javascript/trips.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +119,16 @@
       <workItem from="1620727104659" duration="2253000" />
       <workItem from="1620738979249" duration="673000" />
       <workItem from="1620739770230" duration="11000" />
+      <workItem from="1620739790676" duration="350000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit FrontEnd">
+      <created>1620740068288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620740068288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
